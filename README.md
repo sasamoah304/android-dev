@@ -1,2 +1,3 @@
 # android-dev
-Android Development
+Android Development Project. 
+This Repo contains all Developments related to Android
